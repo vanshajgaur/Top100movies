@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="05729eaf-dc90-4b7e-a632-b2bfe0aa4b1f" name="Changes" comment="" />
+    <list default="true" id="05729eaf-dc90-4b7e-a632-b2bfe0aa4b1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,27 +17,106 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vanshajgaur"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vanshajgaur/Top100movies.git",
+    "accountId": "2c7fcdd4-e390-4200-b325-8ee5669e86bf"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000278" />
+      <entry key="MS500" value="1.0019770554622804" />
+      <entry key="S2" value="1.3311040558197926" />
+      <entry key="S5" value="2.3242419002398" />
+      <entry key="S10" value="3.2557964569856583" />
+      <entry key="S30" value="4.47042833326654" />
+      <entry key="S60" value="5.791850500336345" />
+      <entry key="M2" value="8.679656027449848" />
+      <entry key="M5" value="16.586681678162254" />
+      <entry key="M10" value="26.759941134124034" />
+      <entry key="M15" value="33.5380050846679" />
+      <entry key="M30" value="43.852651851120235" />
+      <entry key="H1" value="51.00115210781087" />
+      <entry key="H2" value="55.238654939552355" />
+      <entry key="H4" value="57.549553227184816" />
+      <entry key="D1" value="59.5815128344278" />
+      <entry key="W1" value="59.93996404074361" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="6.230601237667679E-120" />
+      <entry key="S2" value="1.579910514034457E-30" />
+      <entry key="S5" value="1.2007511592697827E-12" />
+      <entry key="S10" value="1.0960545395173382E-6" />
+      <entry key="S30" value="0.011264989007166899" />
+      <entry key="S60" value="0.14483260522220923" />
+      <entry key="M2" value="0.6129884190276061" />
+      <entry key="M5" value="1.6662119469067025" />
+      <entry key="M10" value="2.7157694657394456" />
+      <entry key="M15" value="3.3826732267054163" />
+      <entry key="M30" value="4.395835292937972" />
+      <entry key="H1" value="5.1027765799861715" />
+      <entry key="H2" value="5.524242135568763" />
+      <entry key="H4" value="5.754860526285996" />
+      <entry key="D1" value="5.958091985470397" />
+      <entry key="W1" value="5.9939868103856595" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.7571545817435774E-5" />
+      <entry key="MS500" value="0.13078803478434814" />
+      <entry key="S2" value="0.8184610426013329" />
+      <entry key="S5" value="1.9353560598248245" />
+      <entry key="S10" value="2.9818832431715383" />
+      <entry key="S30" value="4.350759203971375" />
+      <entry key="S60" value="5.837542597940792" />
+      <entry key="M2" value="9.207266552034364" />
+      <entry key="M5" value="18.18672136489027" />
+      <entry key="M10" value="29.422884041521094" />
+      <entry key="M15" value="36.87646486132982" />
+      <entry key="M30" value="48.21939436203992" />
+      <entry key="H1" value="56.086924244289605" />
+      <entry key="H2" value="60.75366068726706" />
+      <entry key="H4" value="63.29959460637666" />
+      <entry key="D1" value="65.53877211054463" />
+      <entry key="W1" value="65.93383114785155" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3I03R7uE3drIcOBZ9Bo0aAbBByQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
